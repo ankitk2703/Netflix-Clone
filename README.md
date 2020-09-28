@@ -1,5 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
+Here is the Link - https://netflix-clone-8ed76.web.app/
+This site works best with google chrome.
 ## Available Scripts
 
 In the project directory, you can run:
